@@ -1,0 +1,651 @@
+Country,Items,Total Production (t),Total Area Harvested (ha),Total Yield (kg/ha),Regions,Soil Requirement,Climatic Conditions
+Brazil,Apples,9300671,265193,280693.7,Southeast Brazil,Well-drained loamy soil,Subtropical
+Brazil,Apricots,0,0,0,Northeast Brazil,Well-drained sandy soil,Semi-arid
+Brazil,Areca nuts,0,0,0,North Brazil,Loamy soil,Tropical
+Brazil,Bananas,53911332,3665406,117674.9,Northeast Brazil,Fertile,well-drained soil
+Brazil,Barley,3155799,908109,28022.2,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Beans, dry",23200362,21235892,8748.9,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Cabbages,0,0,0,Southeast Brazil,Fertile,well-drained soil
+Brazil,Carrots and turnips,0,0,0,Southeast Brazil,Sandy loam soil,Subtropical
+Brazil,"Cassava, fresh",147766645,9890916,119516.1,Northeast Brazil,Well-drained sandy soil,Tropical
+Brazil,Castor oil seeds,235435,375818,5004.3,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Cauliflowers and broccoli,0,0,0,Southeast Brazil,Fertile,well-drained soil
+Brazil,Cherries,0,0,0,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Chick peas, dry",0,0,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0,0,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,"Coffee, green",25549191,15007488,13616.7,Southeast Brazil,Volcanic soil,Subtropical
+Brazil,Cotton seed,23307494,0,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Cucumbers and gherkins,0,0,0,Southeast Brazil,Fertile,well-drained soil
+Brazil,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",0,0,0,Northeast Brazil,Well-drained sandy soil,Tropical
+Brazil,Eggplants (aubergines),0,603150,0,Southeast Brazil,Fertile,well-drained soil
+Brazil,Grapes,12326985,95806,163547.5,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Green garlic,1192083,1471144,98867.1,Southeast Brazil,Fertile,well-drained soil
+Brazil,"Groundnuts, excluding shelled",5420691,1236,29364.9,Northeast Brazil,Well-drained sandy soil,Semi-arid
+Brazil,"Jute, raw or retted",1535,450995,9230.3,North Brazil,Loamy soil,Tropical
+Brazil,Lemons and limes,11987489,0,212907,Southeast Brazil,Well-drained loamy soil,Subtropical
+Brazil,"Lentils, dry",0,0,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Lettuce and chicory,0,48982,0,Southeast Brazil,Fertile,well-drained soil
+Brazil,Linseed,47708,146665818,7737.2,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Maize (corn),779544150,739808,42253.9,Central-West Brazil,Well-drained loamy soil,Tropical
+Brazil,"Mangoes, guavas and mangosteens",15665545,0,168665.2,Northeast Brazil,Fertile,well-drained soil
+Brazil,Melonseed,0,0,0,Northeast Brazil,Well-drained sandy soil,Semi-arid
+Brazil,Millet,0,0,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Mushrooms and truffles,0,3648472,0,Southeast Brazil,Fertile,well-drained soil
+Brazil,Oats,7522393,0,16575.8,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Okra,0,15039,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Olives,23533,399813,11924.7,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Onions and shallots, dry (excluding dehydrated)",12811074,4748695,256914.4,Southeast Brazil,Fertile,well-drained soil
+Brazil,Oranges,135890183,0,229292.8,Southeast Brazil,Well-drained loamy soil,Subtropical
+Brazil,"Other citrus fruit, n.e.c.",0,0,0,Southeast Brazil,Well-drained loamy soil,Subtropical
+Brazil,Other pulses n.e.c.,0,0,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Other sugar crops n.e.c.,0,1840187,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,"Other vegetables, fresh n.e.c.",24096787.39,228385,104756.3,Southeast Brazil,Fertile,well-drained soil
+Brazil,Papayas,9413044,130408,330731.6,Northeast Brazil,Fertile,well-drained soil
+Brazil,Peaches and nectarines,1656635,9193,101670.2,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Pears,137915,0,120114,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Peas, green",0,281675,0,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Pepper (Piper spp.), raw",833127,0,23329,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Plantains and cooking bananas,0,960270,0,Northeast Brazil,Fertile,well-drained soil
+Brazil,Potatoes,30668405,14005421,255653.4,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Rapeseed or canola oil, crude",149291.63,40312,0,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Rice,89077553,0,51136.9,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Rye,70789,1589000,14055,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Safflower seed,0,7082984,0,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Sesame seed,812000,299632506,4705.1,Northeast Brazil,Well-drained sandy soil,Semi-arid
+Brazil,Sorghum,21028666,0,23270.9,Northeast Brazil,Well-drained soil,Semi-arid
+Brazil,Soya beans,973410669,80449360,25956.8,Central-West Brazil,Well-drained loamy soil,Tropical
+Brazil,Sugar beet,0,469030,0,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Sugar cane,6008655998,448892,597461.3,Northeast Brazil,Fertile,well-drained soil
+Brazil,Sunflower seed,745323,1619,12708.7,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Sweet potatoes,6469937,454642,115165.3,Northeast Brazil,Well-drained sandy soil,Tropical
+Brazil,Tea leaves,16124,2839413,79830.3,Southeast Brazil,Fertile,well-drained soil
+Brazil,Tomatoes,31861323,31882,561661,Southeast Brazil,Fertile,well-drained soil
+Brazil,Unmanufactured tobacco,5866733,750175,16531.6,South Brazil,Well-drained loamy soil,Temperate
+Brazil,"Walnuts, in shell",49421,19938251,12430.8,South Brazil,Well-drained loamy soil,Temperate
+Brazil,Watermelons,16978057,15978790,181091.5,Northeast Brazil,Well-drained sandy soil,Semi-arid
+Brazil,Wheat,54533146,172324,21778.1,South Brazil,Well-drained loamy soil,Temperate
+China,Apples,350675780,322114,175776.2,Northern China,Well-drained loamy soil,Temperate
+China,Apricots,555077.91,2798640,25780.9,Northern China,Well-drained sandy soil,Temperate
+China,Areca nuts,784521.19,3728228,19482.5,Southern China,Loamy soil,Subtropical
+China,Bananas,94424089.39,5962682,270626.9,Southern China,Fertile,well-drained soil
+China,Barley,14561798,8079659,30991.1,Northern China,Well-drained loamy soil,Temperate
+China,"Beans, dry",10445036.26,3388541,14012.4,Northern China,Well-drained soil,Temperate
+China,Cabbages,286404152.4,2440454,283565.9,Northern China,Fertile,well-drained soil
+China,Carrots and turnips,146884955.5,126000,346787,Northern China,Sandy loam soil,Temperate
+China,"Cassava, fresh",40505375.16,3958369,132779.2,Southern China,Well-drained sandy soil,Tropical
+China,Castor oil seeds,214000,68334,13598.8,Northern China,Well-drained soil,Temperate
+China,Cauliflowers and broccoli,77845233.59,22663,157351,Northern China,Fertile,well-drained soil
+China,Cherries,285377.69,389715,33409.8,Northern China,Well-drained loamy soil,Temperate
+China,"Chick peas, dry",123609.72,293999,43636.5,Northern China,Well-drained soil,Temperate
+China,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2581880.59,10147601,52998.7,Southern China,Well-drained soil,Subtropical
+China,"Coffee, green",908718.03,28719,24847.9,Southern China,Volcanic soil,Subtropical
+China,Cotton seed,69936000,6392420,0,Northern China,Well-drained soil,Temperate
+China,Cucumbers and gherkins,572066953.9,5641906,450335.7,Northern China,Fertile,well-drained soil
+China,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",421322.75,6608920,117354.8,Southern China,Well-drained sandy soil,Tropical
+China,Eggplants (aubergines),287708513.4,37388428,359812.6,Northern China,Fertile,well-drained soil
+China,Grapes,112398660.7,39358,159840.6,Northern China,Well-drained loamy soil,Temperate
+China,Green garlic,165135702.5,814728,199909.7,Northern China,Fertile,well-drained soil
+China,"Groundnuts, excluding shelled",142597390,532024,30498.6,Northern China,Well-drained sandy soil,Temperate
+China,"Jute, raw or retted",182600,4950249,36680.6,Southern China,Loamy soil,Subtropical
+China,Lemons and limes,19213664,2045592,188662,Southern China,Well-drained loamy soil,Subtropical
+China,"Lentils, dry",1331072.7,342116444,20016.6,Northern China,Well-drained soil,Temperate
+China,Lettuce and chicory,117218405,2945641,189432.4,Northern China,Fertile,well-drained soil
+China,Linseed,2657541.33,153857,10395.8,Northern China,Well-drained loamy soil,Temperate
+China,Maize (corn),2141495309,6667482,50075.4,Northern China,Well-drained loamy soil,Temperate
+China,"Mangoes, guavas and mangosteens",28796641.68,0,78035.2,Southern China,Fertile,well-drained soil
+China,Melonseed,229238.5,1281325,11923.3,Northern China,Well-drained sandy soil,Temperate
+China,Millet,19599260.27,0,23372.1,Northern China,Well-drained soil,Temperate
+China,Mushrooms and truffles,323643480,2512,0,Northern China,Fertile,well-drained soil
+China,Oats,4529149.45,8892384,28261.1,Northern China,Well-drained loamy soil,Temperate
+China,Okra,0,3600548,0,Southern China,Well-drained soil,Subtropical
+China,Olives,20869.69,1426779,66427.4,Southern China,Well-drained loamy soil,Subtropical
+China,"Onions and shallots, dry (excluding dehydrated)",195908930.5,445876,176242.7,Northern China,Fertile,well-drained soil
+China,Oranges,63618081.05,0,142132.5,Southern China,Well-drained loamy soil,Subtropical
+China,"Other citrus fruit, n.e.c.",44655310.08,82403818,250448.2,Southern China,Well-drained loamy soil,Subtropical
+China,Other pulses n.e.c.,1169504.98,79445,20987.4,Northern China,Well-drained soil,Temperate
+China,Other sugar crops n.e.c.,0,6614436,0,Southern China,Well-drained soil,Subtropical
+China,"Other vegetables, fresh n.e.c.",1313645959,7524724,127545.2,Northern China,Fertile,well-drained soil
+China,Papayas,4998173.63,11662056,502747.2,Southern China,Fertile,well-drained soil
+China,Peaches and nectarines,121843793.1,148390,147105.5,Northern China,Well-drained loamy soil,Temperate
+China,Pears,142419793,0,151611,Northern China,Well-drained loamy soil,Temperate
+China,"Peas, green",93695435.96,36887059,64275.3,Northern China,Well-drained loamy soil,Temperate
+China,"Pepper (Piper spp.), raw",271533.25,241809832,14640.4,Southern China,Well-drained soil,Subtropical
+China,Plantains and cooking bananas,0,1336562,0,Southern China,Fertile,well-drained soil
+China,Potatoes,726523984.6,186088,158075.1,Northern China,Well-drained loamy soil,Temperate
+China,"Rapeseed or canola oil, crude",24407700,2155801,0,Northern China,Well-drained loamy soil,Temperate
+China,Rice,1698745332,4857319,56213.5,Southern China,Well-drained loamy soil,Subtropical
+China,Rye,4177339.07,71598097,25001.2,Northern China,Well-drained loamy soil,Temperate
+China,Safflower seed,270302.47,1444656,11621,Northern China,Well-drained soil,Temperate
+China,Sesame seed,3434919.25,10897286,12734.1,Northern China,Well-drained sandy soil,Temperate
+China,Sorghum,22888961.93,7179860,37702.9,Northern China,Well-drained soil,Temperate
+China,Soya beans,137944247.5,18725382,15363.9,Northern China,Well-drained loamy soil,Temperate
+China,Sugar beet,79406900,23163948,440038.2,Northern China,Well-drained loamy soil,Temperate
+China,Sugar cane,852173627.9,8804350,626093.8,Southern China,Fertile,well-drained soil
+China,Sunflower seed,20382500,8391857,22790.2,Northern China,Well-drained loamy soil,Temperate
+China,Sweet potatoes,413442998.4,2349004,176681.1,Southern China,Well-drained sandy soil,Tropical
+China,Tea leaves,104489336.8,12139854,36233,Southern China,Fertile,well-drained soil
+China,Tomatoes,510634573,191284768,463487,Northern China,Fertile,well-drained soil
+China,Unmanufactured tobacco,18574951.37,418109,17705.8,Northern China,Well-drained soil,Temperate
+China,"Walnuts, in shell",8910000,95364,30259.3,Northern China,Well-drained loamy soil,Temperate
+China,Watermelons,499972881.9,0,329576,Northern China,Well-drained sandy soil,Temperate
+China,Wheat,1078096144,60140,45113.4,Northern China,Well-drained loamy soil,Temperate
+France,Apples,14069462.6,14921121,269570.3,Northern France,Well-drained loamy soil,Temperate
+France,Apricots,1901606.4,8241,157834.6,Southern France,Well-drained sandy soil,Mediterranean
+France,Areca nuts,0,58960,0,Southern France,Loamy soil,Mediterranean
+France,Bananas,1276650,113064,130464.3,Southern France,Fertile,well-drained soil
+France,Barley,92161745,0,49496.2,Northern France,Well-drained loamy soil,Temperate
+France,"Beans, dry",18832,0,4538.3,Northern France,Well-drained soil,Temperate
+France,Cabbages,1413837.4,138413,192064.4,Northern France,Fertile,well-drained soil
+France,Carrots and turnips,4843584.3,57849,343718.6,Northern France,Sandy loam soil,Temperate
+France,"Cassava, fresh",0,0,0,Southern France,Well-drained sandy soil,Mediterranean
+France,Castor oil seeds,0,0,0,Southern France,Well-drained soil,Mediterranean
+France,Cauliflowers and broccoli,2091667.2,0,120702.6,Northern France,Fertile,well-drained soil
+France,Cherries,247039.7,16276,34049.8,Southern France,Well-drained loamy soil,Mediterranean
+France,"Chick peas, dry",0,19638,0,Southern France,Well-drained soil,Mediterranean
+France,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0,8713,0,Southern France,Well-drained soil,Mediterranean
+France,"Coffee, green",0,6036229,0,Southern France,Volcanic soil,Mediterranean
+France,Cotton seed,0,29060,0,Southern France,Well-drained soil,Mediterranean
+France,Cucumbers and gherkins,1368160,0,723526.2,Northern France,Fertile,well-drained soil
+France,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",123321,0,12559.2,Southern France,Well-drained sandy soil,Mediterranean
+France,Eggplants (aubergines),307918.2,14159,294101.4,Southern France,Fertile,well-drained soil
+France,Grapes,46132669.4,48623,61144.1,Southern France,Well-drained loamy soil,Mediterranean
+France,Green garlic,198495.1,122635,55318.3,Northern France,Fertile,well-drained soil
+France,"Groundnuts, excluding shelled",0,226029,0,Southern France,Well-drained sandy soil,Mediterranean
+France,"Jute, raw or retted",0,11861134,0,Southern France,Loamy soil,Mediterranean
+France,Lemons and limes,146371.6,0,89250.6,Southern France,Well-drained loamy soil,Mediterranean
+France,"Lentils, dry",63895,0,2648,Northern France,Well-drained soil,Temperate
+France,Lettuce and chicory,3477582.9,21284,223249.5,Northern France,Fertile,well-drained soil
+France,Linseed,424175,0,15024.7,Northern France,Well-drained loamy soil,Temperate
+France,Maize (corn),104596566,759187,70758,Northern France,Well-drained loamy soil,Temperate
+France,"Mangoes, guavas and mangosteens",0,0,0,Southern France,Fertile,well-drained soil
+France,Melonseed,0,137558,0,Southern France,Well-drained sandy soil,Mediterranean
+France,Millet,82410.58,143289,7744.8,Northern France,Well-drained soil,Temperate
+France,Mushrooms and truffles,808468.3,7776,0,Northern France,Fertile,well-drained soil
+France,Oats,3509723,3920,37158,Northern France,Well-drained loamy soil,Temperate
+France,Okra,0,576212,0,Southern France,Well-drained soil,Mediterranean
+France,Olives,193145.5,0,11259.8,Southern France,Well-drained loamy soil,Mediterranean
+France,"Onions and shallots, dry (excluding dehydrated)",5283252.1,162318,294981.2,Northern France,Fertile,well-drained soil
+France,Oranges,80329.7,0,83171.8,Southern France,Well-drained loamy soil,Mediterranean
+France,"Other citrus fruit, n.e.c.",0,83020,0,Southern France,Well-drained loamy soil,Mediterranean
+France,Other pulses n.e.c.,1184615.54,44813,18678,Northern France,Well-drained soil,Temperate
+France,Other sugar crops n.e.c.,0,329232,0,Southern France,Well-drained soil,Mediterranean
+France,"Other vegetables, fresh n.e.c.",3572533,0,141006.4,Northern France,Fertile,well-drained soil
+France,Papayas,0,0,0,Southern France,Fertile,well-drained soil
+France,Peaches and nectarines,1680507.3,1623594,163514.8,Southern France,Well-drained loamy soil,Mediterranean
+France,Pears,999172.8,112470,179207.8,Northern France,Well-drained loamy soil,Temperate
+France,"Peas, green",2133048.8,257283,51801.9,Northern France,Well-drained loamy soil,Temperate
+France,"Pepper (Piper spp.), raw",0,0,0,Southern France,Well-drained soil,Mediterranean
+France,Plantains and cooking bananas,0,0,0,Southern France,Fertile,well-drained soil
+France,Potatoes,66406397,514091,327122.5,Northern France,Well-drained loamy soil,Temperate
+France,"Rapeseed or canola oil, crude",12615400,1279107,0,Northern France,Well-drained loamy soil,Temperate
+France,Rice,597391,3434252,42616,Southern France,Well-drained loamy soil,Mediterranean
+France,Rye,1103276,0,34435.6,Northern France,Well-drained loamy soil,Temperate
+France,Safflower seed,0,5447177,0,Southern France,Well-drained soil,Mediterranean
+France,Sesame seed,0,0,0,Southern France,Well-drained sandy soil,Mediterranean
+France,Sorghum,2657426,0,41599.4,Southern France,Well-drained soil,Mediterranean
+France,Soya beans,3190967,47077,20139.1,Northern France,Well-drained loamy soil,Temperate
+France,Sugar beet,281418618,16051,653146,Northern France,Well-drained loamy soil,Temperate
+France,Sugar cane,0,198160,0,Southern France,Fertile,well-drained soil
+France,Sunflower seed,12689493,7053,18687.2,Northern France,Well-drained loamy soil,Temperate
+France,Sweet potatoes,0,41097301,0,Southern France,Well-drained sandy soil,Mediterranean
+France,Tea leaves,0,267387,0,Southern France,Fertile,well-drained soil
+France,Tomatoes,5850362.1,1605,996623.5,Southern France,Fertile,well-drained soil
+France,Unmanufactured tobacco,41804,0,20773.1,Northern France,Well-drained soil,Temperate
+France,"Walnuts, in shell",302354,0,12325.1,Northern France,Well-drained loamy soil,Temperate
+France,Watermelons,161573.2,12943500,182907.8,Southern France,Well-drained sandy soil,Mediterranean
+France,Wheat,281391867,0,54858.5,Northern France,Well-drained loamy soil,Temperate
+Germany,Apples,7859689,103570,235461,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Apricots,455.44,106254,8656.4,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Areca nuts,0,0,0,Southern Germany,Loamy soil,Temperate
+Germany,Bananas,0,0,0,Southern Germany,Fertile,well-drained soil
+Germany,Barley,86146300,46923,53291.7,Northern Germany,Well-drained loamy soil,Temperate
+Germany,"Beans, dry",0,46716,0,Northern Germany,Well-drained soil,Temperate
+Germany,Cabbages,5602010,0,432462.3,Northern Germany,Fertile,well-drained soil
+Germany,Carrots and turnips,6133465,0,460677,Northern Germany,Sandy loam soil,Temperate
+Germany,"Cassava, fresh",0,0,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Castor oil seeds,0,18589,0,Southern Germany,Well-drained soil,Temperate
+Germany,Cauliflowers and broccoli,1015843,0,173292.6,Northern Germany,Fertile,well-drained soil
+Germany,Cherries,269639,0,46206.8,Southern Germany,Well-drained loamy soil,Temperate
+Germany,"Chick peas, dry",0,804444,0,Southern Germany,Well-drained soil,Temperate
+Germany,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0,0,0,Southern Germany,Well-drained soil,Temperate
+Germany,"Coffee, green",0,0,0,Southern Germany,Volcanic soil,Temperate
+Germany,Cotton seed,0,0,0,Southern Germany,Well-drained soil,Temperate
+Germany,Cucumbers and gherkins,1995734,0,861048.5,Northern Germany,Fertile,well-drained soil
+Germany,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",0,0,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Eggplants (aubergines),0,73954,0,Southern Germany,Fertile,well-drained soil
+Germany,Grapes,9466785,34300,94151.6,Southern Germany,Well-drained loamy soil,Temperate
+Germany,Green garlic,0,3448300,0,Northern Germany,Fertile,well-drained soil
+Germany,"Groundnuts, excluding shelled",0,0,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,"Jute, raw or retted",0,0,0,Southern Germany,Loamy soil,Temperate
+Germany,Lemons and limes,0,0,0,Southern Germany,Well-drained loamy soil,Temperate
+Germany,"Lentils, dry",0,0,0,Northern Germany,Well-drained soil,Temperate
+Germany,Lettuce and chicory,2057887,1144300,231367.7,Northern Germany,Fertile,well-drained soil
+Germany,Linseed,13000,0,2950.3,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Maize (corn),32393200,0,75123.4,Northern Germany,Well-drained loamy soil,Temperate
+Germany,"Mangoes, guavas and mangosteens",0,116615,0,Southern Germany,Fertile,well-drained soil
+Germany,Melonseed,0,0,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Millet,0,0,0,Northern Germany,Well-drained soil,Temperate
+Germany,Mushrooms and truffles,611075,152506,0,Northern Germany,Fertile,well-drained soil
+Germany,Oats,4904400,0,34238.2,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Okra,0,39642,0,Southern Germany,Well-drained soil,Temperate
+Germany,Olives,0,0,0,Southern Germany,Well-drained loamy soil,Temperate
+Germany,"Onions and shallots, dry (excluding dehydrated)",4940431,778,340270.5,Northern Germany,Fertile,well-drained soil
+Germany,Oranges,0,16762,0,Southern Germany,Well-drained loamy soil,Temperate
+Germany,"Other citrus fruit, n.e.c.",0,40504,0,Southern Germany,Well-drained loamy soil,Temperate
+Germany,Other pulses n.e.c.,26816.95,0,9922.3,Northern Germany,Well-drained soil,Temperate
+Germany,Other sugar crops n.e.c.,0,0,0,Southern Germany,Well-drained soil,Temperate
+Germany,"Other vegetables, fresh n.e.c.",951230,2079800,121750.3,Northern Germany,Fertile,well-drained soil
+Germany,Papayas,0,0,0,Southern Germany,Fertile,well-drained soil
+Germany,Peaches and nectarines,1123.52,4748400,19066.3,Southern Germany,Well-drained loamy soil,Temperate
+Germany,Pears,298671,0,142559.5,Northern Germany,Well-drained loamy soil,Temperate
+Germany,"Peas, green",212028,0,42007.1,Northern Germany,Well-drained loamy soil,Temperate
+Germany,"Pepper (Piper spp.), raw",0,0,0,Southern Germany,Well-drained soil,Temperate
+Germany,Plantains and cooking bananas,0,252300,0,Southern Germany,Fertile,well-drained soil
+Germany,Potatoes,87333000,3162400,336179.2,Northern Germany,Well-drained loamy soil,Temperate
+Germany,"Rapeseed or canola oil, crude",25077247,0,0,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Rice,0,297700,0,Southern Germany,Well-drained loamy soil,Temperate
+Germany,Rye,24445700,0,41064,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Safflower seed,0,0,0,Southern Germany,Well-drained soil,Temperate
+Germany,Sesame seed,0,3031,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Sorghum,0,6356,0,Southern Germany,Well-drained soil,Temperate
+Germany,Soya beans,698400,14024,22520.7,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Sugar beet,237368200,0,600858.8,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Sugar cane,0,24211900,0,Southern Germany,Fertile,well-drained soil
+Germany,Sunflower seed,645800,2433000,17214.4,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Sweet potatoes,0,41964,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Tea leaves,0,5276000,0,Southern Germany,Fertile,well-drained soil
+Germany,Tomatoes,798938,7229000,2108192.4,Southern Germany,Fertile,well-drained soil
+Germany,Unmanufactured tobacco,12613.66,4746335,5195.1,Northern Germany,Well-drained soil,Temperate
+Germany,"Walnuts, in shell",36361.95,116727924,6376.8,Northern Germany,Well-drained loamy soil,Temperate
+Germany,Watermelons,0,3257000,0,Southern Germany,Well-drained sandy soil,Temperate
+Germany,Wheat,180026000,71115,59485.4,Northern Germany,Well-drained loamy soil,Temperate
+India,Apples,19984000,1433000,65806.2,Northern India,Well-drained loamy soil,Temperate
+India,Apricots,118094.68,7204419,22513,Northern India,Well-drained sandy soil,Temperate
+India,Areca nuts,9151000,3710000,13737.9,Southern India,Loamy soil,Tropical
+India,Bananas,257681000,28054,284916.6,Southern India,Fertile,well-drained soil
+India,Barley,13263779.44,79038252,22421.4,Northern India,Well-drained loamy soil,Temperate
+India,"Beans, dry",48441362.24,6041140,3319.6,Northern India,Well-drained soil,Temperate
+India,Cabbages,74483000,3432198,182874.1,Northern India,Fertile,well-drained soil
+India,Carrots and turnips,1093887.66,226961,30762.8,Northern India,Sandy loam soil,Temperate
+India,"Cassava, fresh",43593000,0,246245.3,Southern India,Well-drained sandy soil,Tropical
+India,Castor oil seeds,12604117.74,5702000,14032,Northern India,Well-drained soil,Temperate
+India,Cauliflowers and broccoli,71678000,1175000,154489.1,Northern India,Fertile,well-drained soil
+India,Cherries,83772.09,2822560,23891.4,Northern India,Well-drained loamy soil,Temperate
+India,"Chick peas, dry",86553339.55,41772571,8699.5,Northern India,Well-drained soil,Temperate
+India,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",16048390,5291520,21341.3,Southern India,Well-drained soil,Subtropical
+India,"Coffee, green",2600754.78,2358000,6063.8,Southern India,Volcanic soil,Subtropical
+India,Cotton seed,76787000,11468771,0,Northern India,Well-drained soil,Temperate
+India,Cucumbers and gherkins,1443235.28,1443582,50871.1,Northern India,Fertile,well-drained soil
+India,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",0,1912511,0,Southern India,Well-drained sandy soil,Tropical
+India,Eggplants (aubergines),101619000,76892993,142849.4,Northern India,Fertile,well-drained soil
+India,Grapes,25153000,20393000,171153,Northern India,Well-drained loamy soil,Temperate
+India,Green garlic,20420022.81,0,56843.3,Northern India,Fertile,well-drained soil
+India,"Groundnuts, excluding shelled",71531077.97,71517544,13735.8,Northern India,Well-drained sandy soil,Temperate
+India,"Jute, raw or retted",13854889.2,0,20970,Southern India,Loamy soil,Subtropical
+India,Lemons and limes,26230000,0,88408.9,Northern India,Well-drained loamy soil,Temperate
+India,"Lentils, dry",10473826.62,4191000,7265.5,Northern India,Well-drained soil,Temperate
+India,Lettuce and chicory,9224281.01,0,51117.4,Northern India,Fertile,well-drained soil
+India,Linseed,1107283.17,11867000,4740.5,Northern India,Well-drained loamy soil,Temperate
+India,Maize (corn),237165526.4,1642000,24558.8,Northern India,Well-drained loamy soil,Temperate
+India,"Mangoes, guavas and mangosteens",194753000,793948,76227.9,Southern India,Fertile,well-drained soil
+India,Melonseed,0,17520934,0,Northern India,Well-drained sandy soil,Temperate
+India,Millet,94758981,0,10590.7,Northern India,Well-drained soil,Temperate
+India,Mushrooms and truffles,1543020.79,22871467,0,Northern India,Fertile,well-drained soil
+India,Oats,0,1139000,0,Northern India,Well-drained loamy soil,Temperate
+India,Okra,50975000,37841,97209.3,Southern India,Well-drained soil,Subtropical
+India,Olives,0,334000,0,Northern India,Well-drained loamy soil,Temperate
+India,"Onions and shallots, dry (excluding dehydrated)",204066000,4454000,138159.2,Northern India,Fertile,well-drained soil
+India,Oranges,27506000,1059314,134671.8,Northern India,Well-drained loamy soil,Temperate
+India,"Other citrus fruit, n.e.c.",7023500,0,68700.3,Northern India,Well-drained loamy soil,Temperate
+India,Other pulses n.e.c.,7698521.29,17468000,3515.3,Northern India,Well-drained soil,Temperate
+India,Other sugar crops n.e.c.,0,363293400,0,Southern India,Well-drained soil,Subtropical
+India,"Other vegetables, fresh n.e.c.",323252747.7,0,113005.3,Northern India,Fertile,well-drained soil
+India,Papayas,45547000,711927,320924.3,Southern India,Fertile,well-drained soil
+India,Peaches and nectarines,269174.14,13062044,7113.3,Northern India,Well-drained loamy soil,Temperate
+India,Pears,2433000,37358901,58390,Northern India,Well-drained loamy soil,Temperate
+India,"Peas, green",45608000,94165149,81770.8,Northern India,Well-drained loamy soil,Temperate
+India,"Pepper (Piper spp.), raw",520254.48,0,3930,Southern India,Well-drained soil,Subtropical
+India,Plantains and cooking bananas,0,39698477,0,Southern India,Fertile,well-drained soil
+India,Potatoes,412632000,2490380,188693.2,Northern India,Well-drained loamy soil,Temperate
+India,"Rapeseed or canola oil, crude",17874500,926000,0,Northern India,Well-drained loamy soil,Temperate
+India,Rice,1477766000,4867280,32495.4,Southern India,Well-drained loamy soil,Subtropical
+India,Rye,0,6496000,0,Northern India,Well-drained loamy soil,Temperate
+India,Safflower seed,457652.46,3411316,5315.6,Northern India,Well-drained soil,Temperate
+India,Sesame seed,6003958.08,31000,3695.8,Northern India,Well-drained sandy soil,Temperate
+India,Sorghum,34635296.4,868000,7574.3,Northern India,Well-drained soil,Temperate
+India,Soya beans,102326017.4,244516026,8715.4,Northern India,Well-drained loamy soil,Temperate
+India,Sugar beet,0,286300,0,Northern India,Well-drained loamy soil,Temperate
+India,Sugar cane,3145695281,114600,632015.6,Southern India,Fertile,well-drained soil
+India,Sunflower seed,1994506.91,0,6657.3,Northern India,Well-drained loamy soil,Temperate
+India,Sweet potatoes,10305000,43,88829.4,Southern India,Well-drained sandy soil,Tropical
+India,Tea leaves,47208885.25,499300,77595.5,Southern India,Fertile,well-drained soil
+India,Tomatoes,161056000,247800,198358,Northern India,Fertile,well-drained soil
+India,Unmanufactured tobacco,6026093.3,274600,14135,Northern India,Well-drained soil,Temperate
+India,"Walnuts, in shell",33000,136549,1064.5,Northern India,Well-drained loamy soil,Temperate
+India,Watermelons,22867000,0,209256.7,Northern India,Well-drained sandy soil,Temperate
+India,Wheat,830008725.3,0,27154,Northern India,Well-drained loamy soil,Temperate
+Japan,Apples,5724000,138711,159828.9,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Apricots,747800,34460,52373.8,Northern Japan,Well-drained sandy soil,Temperate
+Japan,Areca nuts,0,0,0,Southern Japan,Loamy soil,Subtropical
+Japan,Bananas,148.78,0,26635.3,Southern Japan,Fertile,well-drained soil
+Japan,Barley,1674700,0,26792.2,Northern Japan,Well-drained loamy soil,Temperate
+Japan,"Beans, dry",422800,82078,13627.6,Northern Japan,Well-drained soil,Temperate
+Japan,Cabbages,11610448.22,30932,338274,Northern Japan,Fertile,well-drained soil
+Japan,Carrots and turnips,4714563.61,68534,276478.9,Northern Japan,Sandy loam soil,Temperate
+Japan,"Cassava, fresh",0,133000,0,Southern Japan,Well-drained sandy soil,Subtropical
+Japan,Castor oil seeds,0,20048,0,Southern Japan,Well-drained soil,Subtropical
+Japan,Cauliflowers and broccoli,1471280.07,49490,84795.3,Northern Japan,Fertile,well-drained soil
+Japan,Cherries,136800,0,31729.8,Northern Japan,Well-drained loamy soil,Temperate
+Japan,"Chick peas, dry",0,4348,0,Northern Japan,Well-drained soil,Temperate
+Japan,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0,0,0,Southern Japan,Well-drained soil,Subtropical
+Japan,"Coffee, green",0,167287,0,Southern Japan,Volcanic soil,Subtropical
+Japan,Cotton seed,0,0,0,Southern Japan,Well-drained soil,Subtropical
+Japan,Cucumbers and gherkins,4381802.71,501,427710.6,Northern Japan,Fertile,well-drained soil
+Japan,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",456198.37,3654,117966.5,Southern Japan,Well-drained sandy soil,Subtropical
+Japan,Eggplants (aubergines),2387655.2,0,279323.3,Northern Japan,Fertile,well-drained soil
+Japan,Grapes,1360800,2307,81832.6,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Green garlic,165343.87,0,66026.9,Northern Japan,Fertile,well-drained soil
+Japan,"Groundnuts, excluding shelled",120100,1312,19484.7,Northern Japan,Well-drained sandy soil,Temperate
+Japan,"Jute, raw or retted",0,0,0,Southern Japan,Loamy soil,Subtropical
+Japan,Lemons and limes,64194.43,0,118406.2,Southern Japan,Well-drained loamy soil,Subtropical
+Japan,"Lentils, dry",0,204875,0,Northern Japan,Well-drained soil,Temperate
+Japan,Lettuce and chicory,4563914.1,19360,218335.2,Northern Japan,Fertile,well-drained soil
+Japan,Linseed,0,22375,0,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Maize (corn),1344.68,0,21456.4,Northern Japan,Well-drained loamy soil,Temperate
+Japan,"Mangoes, guavas and mangosteens",27693.48,0,60648.9,Southern Japan,Fertile,well-drained soil
+Japan,Melonseed,0,978143,0,Southern Japan,Well-drained sandy soil,Subtropical
+Japan,Millet,2011.08,0,6980,Northern Japan,Well-drained soil,Temperate
+Japan,Mushrooms and truffles,3689068.84,75790,0,Northern Japan,Fertile,well-drained soil
+Japan,Oats,2523.44,98810,15388.5,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Okra,0,28299,0,Southern Japan,Well-drained soil,Subtropical
+Japan,Olives,0,0,0,Southern Japan,Well-drained loamy soil,Subtropical
+Japan,"Onions and shallots, dry (excluding dehydrated)",9836087.39,0,384134.1,Northern Japan,Fertile,well-drained soil
+Japan,Oranges,224883.98,589179,92928.3,Southern Japan,Well-drained loamy soil,Subtropical
+Japan,"Other citrus fruit, n.e.c.",408544.8,12248100,146077.2,Southern Japan,Well-drained loamy soil,Subtropical
+Japan,Other pulses n.e.c.,0,0,0,Northern Japan,Well-drained soil,Temperate
+Japan,Other sugar crops n.e.c.,0,0,0,Southern Japan,Well-drained soil,Subtropical
+Japan,"Other vegetables, fresh n.e.c.",21953595.16,200,179573.9,Northern Japan,Fertile,well-drained soil
+Japan,Papayas,0,0,0,Southern Japan,Fertile,well-drained soil
+Japan,Peaches and nectarines,905900,1184500,95556,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Pears,1880600,453000,151766.5,Northern Japan,Well-drained loamy soil,Temperate
+Japan,"Peas, green",202164.83,182682,57296.5,Northern Japan,Well-drained loamy soil,Temperate
+Japan,"Pepper (Piper spp.), raw",0,0,0,Southern Japan,Well-drained soil,Subtropical
+Japan,Plantains and cooking bananas,0,271400,0,Southern Japan,Fertile,well-drained soil
+Japan,Potatoes,18096065.94,317600,245901.7,Northern Japan,Well-drained loamy soil,Temperate
+Japan,"Rapeseed or canola oil, crude",6991572,92752,0,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Rice,84536400,47985,55216.3,Southern Japan,Well-drained loamy soil,Subtropical
+Japan,Rye,0,0,0,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Safflower seed,0,76679,0,Southern Japan,Well-drained soil,Subtropical
+Japan,Sesame seed,110.94,1741800,4414,Northern Japan,Well-drained sandy soil,Temperate
+Japan,Sorghum,0,435318,0,Southern Japan,Well-drained soil,Subtropical
+Japan,Soya beans,1889100,1418,12748.4,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Sugar beet,29608000,0,523472.1,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Sugar cane,10427004.76,643381,456496.4,Southern Japan,Fertile,well-drained soil
+Japan,Sunflower seed,0,2675048,0,Southern Japan,Well-drained loamy soil,Subtropical
+Japan,Sweet potatoes,5999000,11451881,176601.5,Southern Japan,Well-drained sandy soil,Subtropical
+Japan,Tea leaves,2711966.34,53072,68313.5,Southern Japan,Fertile,well-drained soil
+Japan,Tomatoes,5776024.06,93355,498351.1,Northern Japan,Fertile,well-drained soil
+Japan,Unmanufactured tobacco,116185,15404,19445,Northern Japan,Well-drained soil,Temperate
+Japan,"Walnuts, in shell",0,10327,0,Northern Japan,Well-drained loamy soil,Temperate
+Japan,Watermelons,2570187.71,312018,268483.8,Northern Japan,Well-drained sandy soil,Temperate
+Japan,Wheat,7633200,344,35013.8,Northern Japan,Well-drained loamy soil,Temperate
+Mexico,Apples,5821664.44,795831,107053.6,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Apricots,7562.98,250451,42659.6,Northern Mexico,Well-drained sandy soil,Temperate
+Mexico,Areca nuts,0,5124323,0,Southern Mexico,Loamy soil,Tropical
+Mexico,Bananas,19473691.8,146179,242032.2,Southern Mexico,Fertile,well-drained soil
+Mexico,Barley,7712343.46,63898,23073.6,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,"Beans, dry",8382085.24,16627,5959.5,Northern Mexico,Well-drained soil,Temperate
+Mexico,Cabbages,1798232.31,246583,271156.1,Northern Mexico,Fertile,well-drained soil
+Mexico,Carrots and turnips,2760604.44,57635,236547.2,Northern Mexico,Sandy loam soil,Temperate
+Mexico,"Cassava, fresh",194283.03,429019,100796.3,Southern Mexico,Well-drained sandy soil,Tropical
+Mexico,Castor oil seeds,19510.5,0,24775.2,Northern Mexico,Well-drained soil,Temperate
+Mexico,Cauliflowers and broccoli,5604462.54,1490752,143511.3,Northern Mexico,Fertile,well-drained soil
+Mexico,Cherries,1122.86,60949,25944.4,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,"Chick peas, dry",1494217.47,172091,15155.9,Northern Mexico,Well-drained soil,Temperate
+Mexico,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",485958.72,71,15528.2,Southern Mexico,Well-drained soil,Subtropical
+Mexico,"Coffee, green",1363012.92,56280139,2126.8,Southern Mexico,Volcanic soil,Subtropical
+Mexico,Cotton seed,3203000,1731935,0,Northern Mexico,Well-drained soil,Temperate
+Mexico,Cucumbers and gherkins,8370147.35,199,464095.3,Northern Mexico,Fertile,well-drained soil
+Mexico,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",1832337.48,88,229805.4,Southern Mexico,Well-drained sandy soil,Tropical
+Mexico,Eggplants (aubergines),1157108,0,551750.9,Northern Mexico,Fertile,well-drained soil
+Mexico,Grapes,3472652.05,335340,112629.7,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Green garlic,724447.51,29379,100416.9,Northern Mexico,Fertile,well-drained soil
+Mexico,"Groundnuts, excluding shelled",749374.4,46019,14026.5,Northern Mexico,Well-drained sandy soil,Temperate
+Mexico,"Jute, raw or retted",0,403407,0,Southern Mexico,Loamy soil,Subtropical
+Mexico,Lemons and limes,22430038.38,2628604,120191.4,Southern Mexico,Well-drained loamy soil,Subtropical
+Mexico,"Lentils, dry",69101.3,566958,8860.7,Northern Mexico,Well-drained soil,Temperate
+Mexico,Lettuce and chicory,4096364.43,6084,190206.8,Northern Mexico,Fertile,well-drained soil
+Mexico,Linseed,55.07,0,6240.2,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Maize (corn),219442168,758441,31255.7,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,"Mangoes, guavas and mangosteens",19074029.26,149408,88021.9,Southern Mexico,Fertile,well-drained soil
+Mexico,Melonseed,77.32,227917,3131.9,Northern Mexico,Well-drained sandy soil,Temperate
+Mexico,Millet,1262.95,30588,96832.4,Northern Mexico,Well-drained soil,Temperate
+Mexico,Mushrooms and truffles,0,93122,0,Northern Mexico,Fertile,well-drained soil
+Mexico,Oats,681531.92,26752,16447,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Okra,275672.19,0,75595.6,Southern Mexico,Well-drained soil,Subtropical
+Mexico,Olives,179315.84,486717,32256.9,Southern Mexico,Well-drained loamy soil,Subtropical
+Mexico,"Onions and shallots, dry (excluding dehydrated)",12595655.84,329061,249577.5,Northern Mexico,Fertile,well-drained soil
+Mexico,Oranges,37748496.88,66,114896.8,Southern Mexico,Well-drained loamy soil,Subtropical
+Mexico,"Other citrus fruit, n.e.c.",2437553.91,320857,34399.4,Southern Mexico,Well-drained loamy soil,Subtropical
+Mexico,Other pulses n.e.c.,4622.75,624514,6107.6,Northern Mexico,Well-drained soil,Temperate
+Mexico,Other sugar crops n.e.c.,0,10987798,0,Southern Mexico,Well-drained soil,Subtropical
+Mexico,"Other vegetables, fresh n.e.c.",6416646.57,1425284,67681.8,Northern Mexico,Fertile,well-drained soil
+Mexico,Papayas,8633679.08,543,462160.3,Southern Mexico,Fertile,well-drained soil
+Mexico,Peaches and nectarines,1547433.88,6330283,53918.5,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Pears,215873.73,44295,56595.9,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,"Peas, green",503867.12,28279,43392.8,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,"Pepper (Piper spp.), raw",71988.43,0,21417.6,Southern Mexico,Well-drained soil,Subtropical
+Mexico,Plantains and cooking bananas,0,719226,0,Southern Mexico,Fertile,well-drained soil
+Mexico,Potatoes,14855646.36,55524,244248.7,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,"Rapeseed or canola oil, crude",3840100,830758,0,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Rice,2099388,318009,51138.2,Southern Mexico,Well-drained loamy soil,Subtropical
+Mexico,Rye,112.88,4778150,13917.7,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Safflower seed,584727.77,1652789,14742.3,Northern Mexico,Well-drained soil,Temperate
+Mexico,Sesame seed,441598.96,99216,5679.2,Northern Mexico,Well-drained sandy soil,Temperate
+Mexico,Sorghum,37395648.55,0,27256.4,Northern Mexico,Well-drained soil,Temperate
+Mexico,Soya beans,2407660.09,0,13608.8,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Sugar beet,7114.74,64083842,104633.5,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Sugar cane,450199745,36561,569130.1,Southern Mexico,Fertile,well-drained soil
+Mexico,Sunflower seed,58261.44,570378,11126.6,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Sweet potatoes,566306.91,371169,160116.8,Southern Mexico,Well-drained sandy soil,Tropical
+Mexico,Tea leaves,0,0,0,Southern Mexico,Fertile,well-drained soil
+Mexico,Tomatoes,34020803.85,1549,378729.1,Northern Mexico,Fertile,well-drained soil
+Mexico,Unmanufactured tobacco,131023.12,17945,18880.3,Northern Mexico,Well-drained soil,Temperate
+Mexico,"Walnuts, in shell",1265876.19,84462,12294.7,Northern Mexico,Well-drained loamy soil,Temperate
+Mexico,Watermelons,10511726.26,3582270,264182.7,Northern Mexico,Well-drained sandy soil,Temperate
+Mexico,Wheat,26911119.54,0,45182.6,Northern Mexico,Well-drained loamy soil,Temperate
+Russia,Apples,15723991.29,0,75846.2,Western Russia,Well-drained loamy soil,Temperate
+Russia,Apricots,561103.12,323498,45189.8,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Areca nuts,0,0,0,Southern Russia,Loamy soil,Temperate
+Russia,Bananas,0,0,0,Southern Russia,Fertile,well-drained soil
+Russia,Barley,158906018.8,584173,19851.6,Western Russia,Well-drained loamy soil,Temperate
+Russia,"Beans, dry",56936.81,157174,12912.1,Western Russia,Well-drained soil,Temperate
+Russia,Cabbages,20207678.34,0,283317.4,Western Russia,Fertile,well-drained soil
+Russia,Carrots and turnips,11252857.28,0,243131,Western Russia,Sandy loam soil,Temperate
+Russia,"Cassava, fresh",0,0,0,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Castor oil seeds,870.82,1270150,5194.7,Southern Russia,Well-drained soil,Temperate
+Russia,Cauliflowers and broccoli,173209.23,0,80159.2,Western Russia,Fertile,well-drained soil
+Russia,Cherries,397168.73,8627324,37467,Southern Russia,Well-drained loamy soil,Temperate
+Russia,"Chick peas, dry",3471583.09,21038529,8038.2,Southern Russia,Well-drained soil,Temperate
+Russia,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0,0,0,Southern Russia,Well-drained soil,Temperate
+Russia,"Coffee, green",0,0,0,Southern Russia,Volcanic soil,Temperate
+Russia,Cotton seed,0,2284591,0,Southern Russia,Well-drained soil,Temperate
+Russia,Cucumbers and gherkins,12834980.72,0,320772.1,Western Russia,Fertile,well-drained soil
+Russia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",0,19111675,0,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Eggplants (aubergines),0,0,0,Southern Russia,Fertile,well-drained soil
+Russia,Grapes,5693943.45,0,77553.2,Southern Russia,Well-drained loamy soil,Temperate
+Russia,Green garlic,1455164.31,460512,73793.5,Western Russia,Fertile,well-drained soil
+Russia,"Groundnuts, excluding shelled",0,163,0,Southern Russia,Well-drained sandy soil,Temperate
+Russia,"Jute, raw or retted",0,0,0,Southern Russia,Loamy soil,Temperate
+Russia,Lemons and limes,0,36550,0,Southern Russia,Well-drained loamy soil,Temperate
+Russia,"Lentils, dry",1290560.1,0,8175.9,Western Russia,Well-drained soil,Temperate
+Russia,Lettuce and chicory,0,807893,0,Western Russia,Fertile,well-drained soil
+Russia,Linseed,7455807.77,0,6977.8,Western Russia,Well-drained loamy soil,Temperate
+Russia,Maize (corn),115770287.9,48047,44144.3,Western Russia,Well-drained loamy soil,Temperate
+Russia,"Mangoes, guavas and mangosteens",0,67481,0,Southern Russia,Fertile,well-drained soil
+Russia,Melonseed,0,203856,0,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Millet,3114812.16,0,10924,Western Russia,Well-drained soil,Temperate
+Russia,Mushrooms and truffles,523968.39,0,0,Western Russia,Fertile,well-drained soil
+Russia,Oats,35103677.48,9825316,14730.7,Western Russia,Well-drained loamy soil,Temperate
+Russia,Okra,0,1497655,0,Southern Russia,Well-drained soil,Temperate
+Russia,Olives,0,7850972,0,Southern Russia,Well-drained loamy soil,Temperate
+Russia,"Onions and shallots, dry (excluding dehydrated)",13334544.39,1631131,232669.8,Western Russia,Fertile,well-drained soil
+Russia,Oranges,579.37,0,28475,Southern Russia,Well-drained loamy soil,Temperate
+Russia,"Other citrus fruit, n.e.c.",0,747105,0,Southern Russia,Well-drained loamy soil,Temperate
+Russia,Other pulses n.e.c.,57812.91,22756994,13124.8,Western Russia,Well-drained soil,Temperate
+Russia,Other sugar crops n.e.c.,0,8458322,0,Southern Russia,Well-drained soil,Temperate
+Russia,"Other vegetables, fresh n.e.c.",16585819.9,0,164796.6,Western Russia,Fertile,well-drained soil
+Russia,Papayas,0,68022281,0,Southern Russia,Fertile,well-drained soil
+Russia,Peaches and nectarines,310680.42,0,51545.8,Southern Russia,Well-drained loamy soil,Temperate
+Russia,Pears,559368.45,3838,66117.9,Western Russia,Well-drained loamy soil,Temperate
+Russia,"Peas, green",898489.15,649095,35209.6,Western Russia,Well-drained loamy soil,Temperate
+Russia,"Pepper (Piper spp.), raw",0,118,0,Southern Russia,Well-drained soil,Temperate
+Russia,Plantains and cooking bananas,0,0,0,Southern Russia,Fertile,well-drained soil
+Russia,Potatoes,164805981.1,932713,134457,Western Russia,Well-drained loamy soil,Temperate
+Russia,"Rapeseed or canola oil, crude",4114418.08,223828210,0,Western Russia,Well-drained loamy soil,Temperate
+Russia,Rice,8408412.51,1375922,44917.2,Southern Russia,Well-drained loamy soil,Temperate
+Russia,Rye,16419448.89,1060207,16728.6,Western Russia,Well-drained loamy soil,Temperate
+Russia,Safflower seed,1099793.22,0,5240.9,Southern Russia,Well-drained soil,Temperate
+Russia,Sesame seed,0,80404,0,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Sorghum,986014.68,23222563,10148.2,Southern Russia,Well-drained soil,Temperate
+Russia,Soya beans,36821865.13,748103,12790.8,Western Russia,Well-drained loamy soil,Temperate
+Russia,Sugar beet,372504286.7,187914,351392.6,Western Russia,Well-drained loamy soil,Temperate
+Russia,Sugar cane,0,94869,0,Southern Russia,Fertile,well-drained soil
+Russia,Sunflower seed,113063855.2,0,13209,Western Russia,Well-drained loamy soil,Temperate
+Russia,Sweet potatoes,0,0,0,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Tea leaves,2539.56,103691,4906.4,Southern Russia,Fertile,well-drained soil
+Russia,Tomatoes,22313322.28,662301,275863.3,Southern Russia,Fertile,well-drained soil
+Russia,Unmanufactured tobacco,129.76,3684659,7299.8,Western Russia,Well-drained soil,Temperate
+Russia,"Walnuts, in shell",0,54532,0,Southern Russia,Well-drained loamy soil,Temperate
+Russia,Watermelons,14343003.14,0,125402.7,Southern Russia,Well-drained sandy soil,Temperate
+Russia,Wheat,663628280.1,282216,23662.3,Western Russia,Well-drained loamy soil,Temperate
+Turkey,Apples,31416471,0,183123.6,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Apricots,6498004,152875,49235.7,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Areca nuts,0,3228218,0,Southern Turkey,Loamy soil,Mediterranean
+Turkey,Bananas,5261218,17593,509094.6,Southern Turkey,Fertile,well-drained soil
+Turkey,Barley,60150000,375107,20786.3,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,"Beans, dry",2013518,0,21486.1,Northern Turkey,Well-drained soil,Temperate
+Turkey,Cabbages,6813979,349560,291611,Northern Turkey,Fertile,well-drained soil
+Turkey,Carrots and turnips,5193821,2289592,437683.2,Northern Turkey,Sandy loam soil,Temperate
+Turkey,"Cassava, fresh",0,173530,0,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Castor oil seeds,0,35,0,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,Cauliflowers and broccoli,2491101,5864973,191732.7,Northern Turkey,Fertile,well-drained soil
+Turkey,Cherries,5338180,0,64584.5,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,"Chick peas, dry",4450000,0,9685.5,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",128355.53,14037,18829.8,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,"Coffee, green",0,0,0,Southern Turkey,Volcanic soil,Mediterranean
+Turkey,Cotton seed,9656189,949196,0,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,Cucumbers and gherkins,14991037,40215,425466.6,Northern Turkey,Fertile,well-drained soil
+Turkey,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",0,7015641,0,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Eggplants (aubergines),6664102,488672,352272.6,Northern Turkey,Fertile,well-drained soil
+Turkey,Grapes,31676908,398295,78538.5,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,Green garlic,277805,1734,123915.2,Northern Turkey,Fertile,well-drained soil
+Turkey,"Groundnuts, excluding shelled",1494250,27659,31849.7,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,"Jute, raw or retted",0,0,0,Southern Turkey,Loamy soil,Mediterranean
+Turkey,Lemons and limes,10294976,262931,233744.1,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,"Lentils, dry",3054446,0,10719.4,Northern Turkey,Well-drained soil,Temperate
+Turkey,Lettuce and chicory,4156657,390696,191739.8,Northern Turkey,Fertile,well-drained soil
+Turkey,Linseed,41,201754,3133.3,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Maize (corn),54750000,90866,74746,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,"Mangoes, guavas and mangosteens",0,0,0,Southern Turkey,Fertile,well-drained soil
+Turkey,Melonseed,0,0,0,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Millet,37526,1140704,22255.5,Northern Turkey,Well-drained soil,Temperate
+Turkey,Mushrooms and truffles,430684,959621,0,Northern Turkey,Fertile,well-drained soil
+Turkey,Oats,2365528,833691,19835.5,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Okra,251285,195211,50168.6,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,Olives,14406773,204808,16423.8,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,"Onions and shallots, dry (excluding dehydrated)",18157187,24,298122,Northern Turkey,Fertile,well-drained soil
+Turkey,Oranges,14109310,287704,282868.3,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,"Other citrus fruit, n.e.c.",20269,2559787,94256,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,Other pulses n.e.c.,30708,0,8877,Northern Turkey,Well-drained soil,Temperate
+Turkey,Other sugar crops n.e.c.,0,6544438,0,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,"Other vegetables, fresh n.e.c.",4306503,0,134064.1,Northern Turkey,Fertile,well-drained soil
+Turkey,Papayas,0,631079,0,Southern Turkey,Fertile,well-drained soil
+Turkey,Peaches and nectarines,6934571,1365749,141427.1,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,Pears,4186945,714979,166573.8,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,"Peas, green",913227,1051079,80566.5,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,"Pepper (Piper spp.), raw",0,632283,0,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,Plantains and cooking bananas,0,56364746,0,Southern Turkey,Fertile,well-drained soil
+Turkey,Potatoes,40279824,986264,282403,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,"Rapeseed or canola oil, crude",475700,28522,0,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Rice,7590000,0,63329.4,Southern Turkey,Well-drained loamy soil,Mediterranean
+Turkey,Rye,2323681,2671,22272.9,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Safflower seed,271408,7251230,10986.7,Southern Turkey,Well-drained soil,Mediterranean
+Turkey,Sesame seed,142122,4267017,5564.2,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Sorghum,78,181462,27404.7,Northern Turkey,Well-drained soil,Temperate
+Turkey,Soya beans,1224725,234110,34104.7,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Sugar beet,161529169,0,503223.8,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Sugar cane,0,0,0,Southern Turkey,Fertile,well-drained soil
+Turkey,Sunflower seed,16914334,524028,20725.9,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Sweet potatoes,0,282754,0,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Tea leaves,11068604,1429280,140410.9,Southern Turkey,Fertile,well-drained soil
+Turkey,Tomatoes,102941263,0,604147.4,Northern Turkey,Fertile,well-drained soil
+Turkey,Unmanufactured tobacco,635217,23179,7141.2,Northern Turkey,Well-drained soil,Temperate
+Turkey,"Walnuts, in shell",2151706,319541,16476.6,Northern Turkey,Well-drained loamy soil,Temperate
+Turkey,Watermelons,29344869,0,373172.7,Southern Turkey,Well-drained sandy soil,Mediterranean
+Turkey,Wheat,161000000,21176,22879.2,Northern Turkey,Well-drained loamy soil,Temperate
+United States of America,Apples,39038305.46,3034110,316787.3,Northern US,Well-drained loamy soil,Temperate
+United States of America,Apricots,305370,89187,86876.6,Western US,Well-drained sandy soil,Temperate
+United States of America,Areca nuts,0,4930500,0,Southern US,Loamy soil,Subtropical
+United States of America,Bananas,27956.57,0,84252.5,Southern US,Fertile,well-drained soil
+United States of America,Barley,28730010,182430,31626.6,Northern US,Well-drained loamy soil,Temperate
+United States of America,"Beans, dry",9324716,2146860,17524.1,Northern US,Well-drained soil,Temperate
+United States of America,Cabbages,7937619,997629,350251.8,Northern US,Fertile,well-drained soil
+United States of America,Carrots and turnips,11324162,849040,387897.1,Northern US,Sandy loam soil,Temperate
+United States of America,"Cassava, fresh",0,268962250,0,Southern US,Well-drained sandy soil,Subtropical
+United States of America,Castor oil seeds,0,571,0,Southern US,Well-drained soil,Subtropical
+United States of America,Cauliflowers and broccoli,9597741,0,146748.8,Northern US,Fertile,well-drained soil
+United States of America,Cherries,2496824,1581530,70521.7,Western US,Well-drained loamy soil,Temperate
+United States of America,"Chick peas, dry",2126040,0,11860.6,Northern US,Well-drained soil,Temperate
+United States of America,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0,2770510,0,Southern US,Well-drained soil,Subtropical
+United States of America,"Coffee, green",22519,10505,7712.3,Southern US,Volcanic soil,Subtropical
+United States of America,Cotton seed,34055700,125866,0,Southern US,Well-drained soil,Subtropical
+United States of America,Cucumbers and gherkins,5464634,446426,137284.6,Northern US,Fertile,well-drained soil
+United States of America,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",0,1611740,0,Southern US,Well-drained sandy soil,Subtropical
+United States of America,Eggplants (aubergines),787715.19,9031,297595.9,Northern US,Fertile,well-drained soil
+United States of America,Grapes,48610494.79,0,127893.7,Western US,Well-drained loamy soil,Temperate
+United States of America,Green garlic,1582928,0,141453,Northern US,Fertile,well-drained soil
+United States of America,"Groundnuts, excluding shelled",21594970,93077,35057,Southern US,Well-drained sandy soil,Subtropical
+United States of America,"Jute, raw or retted",0,2404,0,Southern US,Loamy soil,Subtropical
+United States of America,Lemons and limes,7094200,307577,310632,Southern US,Well-drained loamy soil,Subtropical
+United States of America,"Lentils, dry",2555180,141001,9672.6,Northern US,Well-drained soil,Temperate
+United States of America,Lettuce and chicory,34017467,410955,273337.3,Northern US,Fertile,well-drained soil
+United States of America,Linseed,988720,0,9238.6,Northern US,Well-drained loamy soil,Temperate
+United States of America,Maize (corn),2969933080,0,88280.6,Northern US,Well-drained loamy soil,Temperate
+United States of America,"Mangoes, guavas and mangosteens",11155.85,3137953,156305.6,Southern US,Fertile,well-drained soil
+United States of America,Melonseed,0,8637290,0,Southern US,Well-drained sandy soil,Subtropical
+United States of America,Millet,2536640,1046126,13096,Northern US,Well-drained soil,Temperate
+United States of America,Mushrooms and truffles,2986405,455440,0,Northern US,Fertile,well-drained soil
+United States of America,Oats,6442390,0,18559.9,Northern US,Well-drained loamy soil,Temperate
+United States of America,Okra,82710.61,17487880,62988.2,Southern US,Well-drained soil,Subtropical
+United States of America,Olives,878700,272062760,55889.4,Southern US,Well-drained loamy soil,Subtropical
+United States of America,"Onions and shallots, dry (excluding dehydrated)",27134850,3574098,486344.7,Northern US,Fertile,well-drained soil
+United States of America,Oranges,32708600,2980372,160439.2,Southern US,Well-drained loamy soil,Subtropical
+United States of America,"Other citrus fruit, n.e.c.",176010.53,4496590,155448.4,Southern US,Well-drained loamy soil,Subtropical
+United States of America,Other pulses n.e.c.,0,482394,0,Northern US,Well-drained soil,Temperate
+United States of America,Other sugar crops n.e.c.,0,0,0,Southern US,Well-drained soil,Subtropical
+United States of America,"Other vegetables, fresh n.e.c.",5712064,962803,491154.6,Northern US,Fertile,well-drained soil
+United States of America,Papayas,51422.71,787570,168255.2,Southern US,Fertile,well-drained soil
+United States of America,Peaches and nectarines,5901720,1183717,153922.3,Western US,Well-drained loamy soil,Temperate
+United States of America,Pears,5121328.27,337882,290580.7,Northern US,Well-drained loamy soil,Temperate
+United States of America,"Peas, green",1921990,123470921,37461.2,Northern US,Well-drained loamy soil,Temperate
+United States of America,"Pepper (Piper spp.), raw",0,0,0,Southern US,Well-drained soil,Subtropical
+United States of America,Plantains and cooking bananas,0,0,0,Southern US,Fertile,well-drained soil
+United States of America,Potatoes,156550409,0,399425.4,Northern US,Well-drained loamy soil,Temperate
+United States of America,"Rapeseed or canola oil, crude",5531000,0,0,Northern US,Well-drained loamy soil,Temperate
+United States of America,Rice,72947090,0,67556.3,Southern US,Well-drained loamy soil,Subtropical
+United States of America,Rye,2156699,0,16555.3,Northern US,Well-drained loamy soil,Temperate
+United States of America,Safflower seed,634880,0,11049.9,Northern US,Well-drained soil,Temperate
+United States of America,Sesame seed,0,0,0,Southern US,Well-drained sandy soil,Subtropical
+United States of America,Sorghum,73025260,0,33271.6,Northern US,Well-drained soil,Temperate
+United States of America,Soya beans,919994730,0,27036.7,Northern US,Well-drained loamy soil,Temperate
+United States of America,Sugar beet,247132550,0,552859.4,Northern US,Well-drained loamy soil,Temperate
+United States of America,Sugar cane,243488398,0,653574.2,Southern US,Fertile,well-drained soil
+United States of America,Sunflower seed,8530640,0,15116.6,Northern US,Well-drained loamy soil,Temperate
+United States of America,Sweet potatoes,10865545,0,180118.1,Northern US,Well-drained sandy soil,Temperate
+United States of America,Tea leaves,0,0,0,Southern US,Fertile,well-drained soil
+United States of America,Tomatoes,91476938,0,761071.6,Northern US,Fertile,well-drained soil
+United States of America,Unmanufactured tobacco,1832320,0,18728.3,Northern US,Well-drained soil,Temperate
+United States of America,"Walnuts, in shell",5223576.18,0,35356.8,Northern US,Well-drained loamy soil,Temperate
+United States of America,Watermelons,13525337,0,320379.3,Northern US,Well-drained sandy soil,Temperate
+United States of America,Wheat,402864377,0,26051.5,Northern US,Well-drained loamy soil,Temperate
