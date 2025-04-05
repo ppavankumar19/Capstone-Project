@@ -1,0 +1,32 @@
+1.	Identifying High-Demand Crops for Data Visualization
+Objective: This project aims to identify over 25 high-demand agricultural products India needs to catch up in production compared to leading global producers. This information will create insightful data visualisations highlighting potential farm development and investment areas in India.
+Task Details:
+1. Research and Identify:
+   - Find at least 25 high-demand crops in significant global demand that must be sufficiently produced in India.
+   - Focus on crops where leading global producers significantly outperform India in terms of production volumes.
+2. Data Collection:
+   - For each crop, gather the following data:
+     - Top three global producers (countries)
+     - Current production levels in India
+     - Regions in India where the crop is currently grown (if applicable)
+     - Climatic and soil requirements of the crop
+     - Global market demand and trends
+3. Data Visualization Preparation:
+   - Compile the data into a structured format suitable for visualisation.
+   - Identify key insights and trends that can be highlighted through visual representation.
+4. Examples to Get Started:
+   - Avocados: The largest producers are in Mexico, the Dominican Republic, and Peru; there is limited production in Tamil Nadu and Kerala.
+   - Blueberries: Largest Producers - United States, Canada, Chile; Minimal production in Himachal Pradesh.
+   - Almonds: Largest Producers - United States, Spain, Iran; Limited production in Jammu & Kashmir and Himachal Pradesh.
+   - Quinoa: Largest Producers - Peru, Bolivia, Ecuador; Experimental cultivation in Andhra Pradesh and Rajasthan.
+   - Kiwi: Largest Producers - China, Italy, New Zealand; Limited production in northeastern states and Himachal Pradesh.
+   - Dragon Fruit: The largest producers are in Vietnam, Thailand, and Malaysia; there is limited production in Gujarat and Maharashtra.
+Deliverables:
+1. A comprehensive list of 25+ high-demand crops with the required data points.
+2. A structured dataset ready for visualisation.
+3. A brief report summarising key findings and insights from the research.
+Tools and Resources:
+- Research online databases, agricultural reports, and market analysis tools.
+- Spreadsheet software (e.g., Excel, Google Sheets) for data compilation.
+- Data visualisation tools (e.g., Tableau, Power BI, or Google Data Studio) for creating visual representations (if applicable).
+
